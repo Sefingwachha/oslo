@@ -501,6 +501,15 @@
         padding: 100px 20px;
     }
 
+    .form-group {
+        display : block;
+    }
+
+    
+  .form-group .name {
+        margin-bottom: 20px;
+  }
+
     .decorative-contact-image-3 {
         bottom: -16%;
     }
