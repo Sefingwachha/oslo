@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
     arrows: false,
     perPage: 5,
     autoScroll: {
-      speed: 1,
+      speed: 0.5,
     },
     breakpoints: {
       1200: {
@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function () {
     arrows: false,
     perPage: 5,
     autoScroll: {
-      speed: 1,
+      speed: 0.5,
     },
     breakpoints: {
       1200: {
@@ -192,7 +192,7 @@ document.addEventListener("DOMContentLoaded", function () {
     pagination: false,
     arrows: false,
     autoScroll: {
-      speed: 1,
+      speed: 0.5,
     },
     breakpoints: {
       1200: {
