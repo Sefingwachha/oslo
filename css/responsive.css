@@ -502,7 +502,7 @@
     }
 
     .form-group {
-        display : block;
+        display : block !important;
     }
 
     
